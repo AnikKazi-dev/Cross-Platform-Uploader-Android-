@@ -32,7 +32,7 @@ You can revoke access at any time by:
 - Uninstalling the App (which removes locally stored data).
 
 ## Contact
-Email: **REPLACE_WITH_YOUR_SUPPORT_EMAIL**
+Email: wonder0verse@gmail.com
 
 ## Changes
 We may update this policy. Updates will be posted on this page.
