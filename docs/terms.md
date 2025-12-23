@@ -25,7 +25,7 @@ The App is provided "as is" without warranties of any kind. Upload success depen
 To the maximum extent permitted by law, we are not liable for indirect or consequential damages arising from your use of the App.
 
 ## Contact
-Email: **REPLACE_WITH_YOUR_SUPPORT_EMAIL**
+Email: wonder0verse@gmail.com
 
 ## Changes
 We may update these Terms. Updates will be posted on this page.
